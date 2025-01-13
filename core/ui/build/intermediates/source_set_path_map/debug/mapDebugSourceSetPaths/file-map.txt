@@ -1,0 +1,7 @@
+com.micheldr.core.ui-pngs-0 /Users/adriendev/AndroidStudioProjects/PartyMaker/core/ui/build/generated/res/pngs/debug
+com.micheldr.core.ui-resValues-1 /Users/adriendev/AndroidStudioProjects/PartyMaker/core/ui/build/generated/res/resValues/debug
+com.micheldr.core.ui-packageDebugResources-2 /Users/adriendev/AndroidStudioProjects/PartyMaker/core/ui/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.micheldr.core.ui-packageDebugResources-3 /Users/adriendev/AndroidStudioProjects/PartyMaker/core/ui/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.micheldr.core.ui-debug-4 /Users/adriendev/AndroidStudioProjects/PartyMaker/core/ui/build/intermediates/merged_res/debug/mergeDebugResources
+com.micheldr.core.ui-debug-5 /Users/adriendev/AndroidStudioProjects/PartyMaker/core/ui/src/debug/res
+com.micheldr.core.ui-main-6 /Users/adriendev/AndroidStudioProjects/PartyMaker/core/ui/src/main/res
