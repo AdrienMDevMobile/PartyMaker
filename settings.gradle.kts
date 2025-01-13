@@ -21,6 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "PartyMaker"
 include(":app")
+include(":app-catalog")
 include(":feature:parties")
 include(":core:ui")
 include(":core:data")
